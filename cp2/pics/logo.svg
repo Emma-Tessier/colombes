@@ -1,0 +1,18 @@
+<svg width="296" height="291" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#6d0c3b" id="canvas_background" height="293" width="298" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="139.94644" rx="141.00002" id="svg_3" cy="147.23648" cx="142.50002" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFDBD2"/>
+  <ellipse ry="129.33248" rx="129" id="svg_6" cy="146.66752" cx="142.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFEBFF"/>
+  <ellipse ry="142.87289" rx="131.71094" id="svg_9" cy="307.99153" cx="-236.28906" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#B1FFFF"/>
+  <text transform="matrix(16.7303, 0, 0, 7.88226, -6174.16, -1607.42)" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_15" y="250" x="392.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text transform="matrix(3.68404, 0, 0, 3.90427, -998.877, -599.917)" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_17" y="199.95836" x="292.85659" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">DC</text>
+ </g>
+</svg>

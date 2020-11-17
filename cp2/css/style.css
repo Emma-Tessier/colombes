@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornsilk;
+    background: linear-gradient(to right, cornsilk, orange, red);
+    background: radial-gradient(rgb(228, 177, 221), rgba(130, 177, 238, 0.39),white );
+    background: url(../pics/sun.png) no-repeat top right, url(../pics/plane.png) no-repeat bottom right, radial-gradient(rgb(228, 177, 221), rgba(130, 177, 238, 0.39), white);
+    margin-bottom: 150px;
+}
+h1,h2,h3,h4 {
+    font-family: Mitr, sans-serif;
+}
+h1 {
+    color: rgb(255,0,0);
+}
+
+#top {
+    text-shadow: 0 0 10px  rgb(228, 35, 109);
+}
+
+pre {
+    color: blue;
+    border-left: blue 2px solid;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+dt {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: .5rem 0;
+}
+
+dd,p {
+    text-align: justify;
+}
+
+figure >img{
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border-radius: 2em 3em 4em 5em;
+    border-radius: 70% 50% / 50% 70%;
+    box-shadow:  5px 5px 7.5px black, -5px -5px 7.5px grey;
+}
+
+table{
+    width: 100%;
+}
+
+table,th,td {
+    border: black solid 1px;
+}
+
+tbody tr:nth-child(even){
+    background-color: #ddd;
+}
+
+tbody tr:hover {
+    background-color: gold;
+    cursor: pointer;
+}
+thead, tfoot {
+    background-color: darkgrey;
+    color:white;
+}
+
+table:first-of-type td:last-child{
+    text-align: right ;   
+}
+tbody tr td:nth-child(2) {
+    text-align: center;
+}
+
+ol ol {
+    list-style-type: upper-roman;
+}
+
+ul {
+    list-style-image: url(../pics/bullet.png);
+}
