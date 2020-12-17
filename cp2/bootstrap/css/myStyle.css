@@ -1,0 +1,10 @@
+.myConteneur{
+    background-color: rgb(243, 187, 234);
+}
+[class*="col"]{
+  background-color: rgb(247, 203, 232);
+  border: 1px solid rgb(114, 22, 68);
+  border-radius: 4px;
+  line-height: 40px;
+  text-align: center;
+}

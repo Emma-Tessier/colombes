@@ -1,0 +1,18 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    min-height: 100vh;
+    font-family: monospace;
+    background-color: rgb(133, 10, 85);
+    overflow: hidden;
+}
+h1{
+  font-family: 'Pacifico',cursive; 
+  font-size: 5em;
+  font-weight: bold;
+  color: pink;
+  top: 20px; 
+  white-space:nowrap;
+}
